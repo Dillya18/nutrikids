@@ -11,18 +11,23 @@ if ($conn->connect_error) {
     die("Қосылым қатесі: " . $conn->connect_error);
 }
 
-// Регистрацияны өңдеу
+// Кіруді өңдеу
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
-    $name = htmlspecialchars($_POST['name']);
-    $email = htmlspecialchars($_POST['email']);
-    $phone = htmlspecialchars($_POST['phone']);
-    $password = password_hash($_POST['password'], PASSWORD_DEFAULT);
+    $login_email = htmlspecialchars($_POST['login_email']);
+    $login_password = $_POST['login_password'];
 
-    $sql = "INSERT INTO registration (name, email, phone, password) VALUES ('$name', '$email', '$phone', '$password')";
-    if ($conn->query($sql) === TRUE) {
-        echo "<script>alert('Регистрация сәтті аяқталды!');</script>";
+    $sql = "SELECT * FROM registration WHERE email = '$login_email'";
+    $result = $conn->query($sql);
+
+    if ($result->num_rows > 0) {
+        $row = $result->fetch_assoc();
+        if (password_verify($login_password, $row['password'])) {
+            echo "<script>alert('Сәтті кірдіңіз!');</script>";
+        } else {
+            echo "<script>alert('Қате пароль');</script>";
+        }
     } else {
-        echo "<script>alert('Қате: " . $conn->error . "');</script>";
+        echo "<script>alert('Бұл email тіркелмеген');</script>";
     }
 }
 
@@ -34,7 +39,7 @@ $conn->close();
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Регистрация - NutriKids</title>
+    <title>Войти - NutriKids</title>
     <link rel="stylesheet" href="./css/style.css">
 </head>
 <body>
@@ -59,26 +64,18 @@ $conn->close();
 
     <section class="auth-section">
         <div class="auth-container">
-            <h1>Регистрация</h1>
-            <p>Присоединяйтесь к нашему сообществу родителей!</p>
+            <h1>Войти</h1>
+            <p>Войдите в свой аккаунт</p>
             <form method="POST" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>">
                 <div class="form-group">
-                    <label for="name">Имя:</label>
-                    <input type="text" id="name" name="name" placeholder="Введите ваше имя" required>
+                    <label for="login_email">Почта:</label>
+                    <input type="email" id="login_email" name="login_email" placeholder="Введите ваш email" required>
                 </div>
                 <div class="form-group">
-                    <label for="email">Почта:</label>
-                    <input type="email" id="email" name="email" placeholder="Введите ваш email" required>
+                    <label for="login_password">Пароль:</label>
+                    <input type="password" id="login_password" name="login_password" placeholder="Введите пароль" required>
                 </div>
-                <div class="form-group">
-                    <label for="phone">Номер телефона:</label>
-                    <input type="tel" id="phone" name="phone" placeholder="Введите ваш номер" required>
-                </div>
-                <div class="form-group">
-                    <label for="password">Пароль:</label>
-                    <input type="password" id="password" name="password" placeholder="Придумайте пароль" required>
-                </div>
-                <button type="submit" class="auth-btn">Зарегистрироваться</button>
+                <button type="submit" class="auth-btn">Войти</button>
             </form>
         </div>
     </section>
