@@ -1,0 +1,151 @@
+=== Тапсырыстар (2025-03-15 04:44:18) ===
+User: dilnaz@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address:  | Payment:  | Status:  | Ordered:  | Shipped: -
+User: d.azbergenova18@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address:  | Payment:  | Status:  | Ordered:  | Shipped: -
+User: rinat@gmail.com | Item: Каша молочная Modest | Price: 800 | Address: Байтурсынова 127 | Payment: при получении | Status:  | Ordered:  | Shipped: -
+User: rinat@gmail.com | Item: Йогурт детский Modest | Price: 400 | Address: Байтурсынова 127 | Payment: при получении | Status:  | Ordered:  | Shipped: -
+User: rinat@gmail.com | Item: Сок фруктовый Modest | Price: 600 | Address: 3 мкрн | Payment: онлайн | Status: Жіберілді | Ordered:  | Shipped: -
+User: rinat@gmail.com | Item: Пюре овощное Modest | Price: 500 | Address: 3 мкрн | Payment: онлайн | Status: Жіберілді | Ordered:  | Shipped: -
+User: rinat@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address: тимирязева 41 | Payment: онлайн | Status: Жіберілді | Ordered:  | Shipped: -
+User: dighlnaz@gmail.com | Item: Каша молочная Modest | Price: 800 | Address: Жандосова 54 | Payment: при получении | Status: Жіберілді | Ordered:  | Shipped: -
+User: d.azbergenova18@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address: Шевченко 85 | Payment: при получении | Status: Жіберілді | Ordered:  | Shipped: 2025-03-15
+User: d.azbergenova18@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address: Шевченко 85 | Payment: при получении | Status: Жіберілді | Ordered:  | Shipped: 2025-03-15
+====================
+
+=== Тапсырыстар (2025-03-15 04:45:24) ===
+User: dilnaz@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address:  | Payment:  | Status:  | Ordered:  | Shipped: -
+User: d.azbergenova18@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address:  | Payment:  | Status:  | Ordered:  | Shipped: -
+User: rinat@gmail.com | Item: Каша молочная Modest | Price: 800 | Address: Байтурсынова 127 | Payment: при получении | Status:  | Ordered:  | Shipped: -
+User: rinat@gmail.com | Item: Йогурт детский Modest | Price: 400 | Address: Байтурсынова 127 | Payment: при получении | Status:  | Ordered:  | Shipped: -
+User: rinat@gmail.com | Item: Сок фруктовый Modest | Price: 600 | Address: 3 мкрн | Payment: онлайн | Status: Жіберілді | Ordered:  | Shipped: -
+User: rinat@gmail.com | Item: Пюре овощное Modest | Price: 500 | Address: 3 мкрн | Payment: онлайн | Status: Жіберілді | Ordered:  | Shipped: -
+User: rinat@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address: тимирязева 41 | Payment: онлайн | Status: Жіберілді | Ordered:  | Shipped: -
+User: dighlnaz@gmail.com | Item: Каша молочная Modest | Price: 800 | Address: Жандосова 54 | Payment: при получении | Status: Жіберілді | Ordered:  | Shipped: -
+User: d.azbergenova18@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address: Шевченко 85 | Payment: при получении | Status: Жіберілді | Ordered:  | Shipped: 2025-03-15
+User: d.azbergenova18@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address: Шевченко 85 | Payment: при получении | Status: Жіберілді | Ordered:  | Shipped: 2025-03-15
+====================
+
+=== Тапсырыстар (2025-03-15 04:45:55) ===
+User: dilnaz@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address:  | Payment:  | Status:  | Ordered:  | Shipped: -
+User: d.azbergenova18@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address:  | Payment:  | Status:  | Ordered:  | Shipped: -
+User: rinat@gmail.com | Item: Каша молочная Modest | Price: 800 | Address: Байтурсынова 127 | Payment: при получении | Status:  | Ordered:  | Shipped: -
+User: rinat@gmail.com | Item: Йогурт детский Modest | Price: 400 | Address: Байтурсынова 127 | Payment: при получении | Status:  | Ordered:  | Shipped: -
+User: rinat@gmail.com | Item: Сок фруктовый Modest | Price: 600 | Address: 3 мкрн | Payment: онлайн | Status: Жіберілді | Ordered:  | Shipped: -
+User: rinat@gmail.com | Item: Пюре овощное Modest | Price: 500 | Address: 3 мкрн | Payment: онлайн | Status: Жіберілді | Ordered:  | Shipped: -
+User: rinat@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address: тимирязева 41 | Payment: онлайн | Status: Жіберілді | Ordered:  | Shipped: -
+User: dighlnaz@gmail.com | Item: Каша молочная Modest | Price: 800 | Address: Жандосова 54 | Payment: при получении | Status: Жіберілді | Ordered:  | Shipped: -
+User: d.azbergenova18@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address: Шевченко 85 | Payment: при получении | Status: Жіберілді | Ordered:  | Shipped: 2025-03-15
+User: d.azbergenova18@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address: Шевченко 85 | Payment: при получении | Status: Жіберілді | Ordered:  | Shipped: 2025-03-15
+====================
+
+=== Тапсырыстар (2025-03-15 04:46:05) ===
+User: dilnaz@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address:  | Payment:  | Status:  | Ordered:  | Shipped: -
+User: d.azbergenova18@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address:  | Payment:  | Status:  | Ordered:  | Shipped: -
+User: rinat@gmail.com | Item: Каша молочная Modest | Price: 800 | Address: Байтурсынова 127 | Payment: при получении | Status:  | Ordered:  | Shipped: -
+User: rinat@gmail.com | Item: Йогурт детский Modest | Price: 400 | Address: Байтурсынова 127 | Payment: при получении | Status:  | Ordered:  | Shipped: -
+User: rinat@gmail.com | Item: Сок фруктовый Modest | Price: 600 | Address: 3 мкрн | Payment: онлайн | Status: Жіберілді | Ordered:  | Shipped: -
+User: rinat@gmail.com | Item: Пюре овощное Modest | Price: 500 | Address: 3 мкрн | Payment: онлайн | Status: Жіберілді | Ordered:  | Shipped: -
+User: rinat@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address: тимирязева 41 | Payment: онлайн | Status: Жіберілді | Ordered:  | Shipped: -
+User: dighlnaz@gmail.com | Item: Каша молочная Modest | Price: 800 | Address: Жандосова 54 | Payment: при получении | Status: Жіберілді | Ordered:  | Shipped: -
+User: d.azbergenova18@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address: Шевченко 85 | Payment: при получении | Status: Жіберілді | Ordered:  | Shipped: 2025-03-15
+User: d.azbergenova18@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address: Шевченко 85 | Payment: при получении | Status: Жіберілді | Ordered:  | Shipped: 2025-03-15
+====================
+
+=== Тапсырыстар (2025-03-15 04:46:14) ===
+User: dilnaz@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address:  | Payment:  | Status:  | Ordered:  | Shipped: -
+User: d.azbergenova18@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address:  | Payment:  | Status:  | Ordered:  | Shipped: -
+User: rinat@gmail.com | Item: Каша молочная Modest | Price: 800 | Address: Байтурсынова 127 | Payment: при получении | Status:  | Ordered:  | Shipped: -
+User: rinat@gmail.com | Item: Йогурт детский Modest | Price: 400 | Address: Байтурсынова 127 | Payment: при получении | Status:  | Ordered:  | Shipped: -
+User: rinat@gmail.com | Item: Сок фруктовый Modest | Price: 600 | Address: 3 мкрн | Payment: онлайн | Status: Жіберілді | Ordered:  | Shipped: -
+User: rinat@gmail.com | Item: Пюре овощное Modest | Price: 500 | Address: 3 мкрн | Payment: онлайн | Status: Жіберілді | Ordered:  | Shipped: -
+User: rinat@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address: тимирязева 41 | Payment: онлайн | Status: Жіберілді | Ordered:  | Shipped: -
+User: dighlnaz@gmail.com | Item: Каша молочная Modest | Price: 800 | Address: Жандосова 54 | Payment: при получении | Status: Жіберілді | Ordered:  | Shipped: -
+User: d.azbergenova18@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address: Шевченко 85 | Payment: при получении | Status: Жіберілді | Ordered:  | Shipped: 2025-03-15
+User: d.azbergenova18@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address: Шевченко 85 | Payment: при получении | Status: Жіберілді | Ordered:  | Shipped: 2025-03-15
+====================
+
+=== Тапсырыстар (2025-03-15 04:46:30) ===
+User: dilnaz@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address:  | Payment:  | Status:  | Ordered:  | Shipped: -
+User: d.azbergenova18@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address:  | Payment:  | Status:  | Ordered:  | Shipped: -
+User: rinat@gmail.com | Item: Каша молочная Modest | Price: 800 | Address: Байтурсынова 127 | Payment: при получении | Status:  | Ordered:  | Shipped: -
+User: rinat@gmail.com | Item: Йогурт детский Modest | Price: 400 | Address: Байтурсынова 127 | Payment: при получении | Status:  | Ordered:  | Shipped: -
+User: rinat@gmail.com | Item: Сок фруктовый Modest | Price: 600 | Address: 3 мкрн | Payment: онлайн | Status: Жіберілді | Ordered:  | Shipped: -
+User: rinat@gmail.com | Item: Пюре овощное Modest | Price: 500 | Address: 3 мкрн | Payment: онлайн | Status: Жіберілді | Ordered:  | Shipped: -
+User: rinat@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address: тимирязева 41 | Payment: онлайн | Status: Жіберілді | Ordered:  | Shipped: -
+User: dighlnaz@gmail.com | Item: Каша молочная Modest | Price: 800 | Address: Жандосова 54 | Payment: при получении | Status: Жіберілді | Ordered:  | Shipped: -
+User: d.azbergenova18@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address: Шевченко 85 | Payment: при получении | Status: Жіберілді | Ordered:  | Shipped: 2025-03-15
+User: d.azbergenova18@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address: Шевченко 85 | Payment: при получении | Status: Жіберілді | Ordered:  | Shipped: 2025-03-15
+====================
+
+=== Тапсырыстар (2025-03-15 04:48:00) ===
+User: dilnaz@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address:  | Payment:  | Status:  | Ordered:  | Shipped: -
+User: d.azbergenova18@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address:  | Payment:  | Status:  | Ordered:  | Shipped: -
+User: rinat@gmail.com | Item: Каша молочная Modest | Price: 800 | Address: Байтурсынова 127 | Payment: при получении | Status:  | Ordered:  | Shipped: -
+User: rinat@gmail.com | Item: Йогурт детский Modest | Price: 400 | Address: Байтурсынова 127 | Payment: при получении | Status:  | Ordered:  | Shipped: -
+User: rinat@gmail.com | Item: Сок фруктовый Modest | Price: 600 | Address: 3 мкрн | Payment: онлайн | Status: Жіберілді | Ordered:  | Shipped: -
+User: rinat@gmail.com | Item: Пюре овощное Modest | Price: 500 | Address: 3 мкрн | Payment: онлайн | Status: Жіберілді | Ordered:  | Shipped: -
+User: rinat@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address: тимирязева 41 | Payment: онлайн | Status: Жіберілді | Ordered:  | Shipped: -
+User: dighlnaz@gmail.com | Item: Каша молочная Modest | Price: 800 | Address: Жандосова 54 | Payment: при получении | Status: Жіберілді | Ordered:  | Shipped: -
+User: d.azbergenova18@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address: Шевченко 85 | Payment: при получении | Status: Жіберілді | Ordered:  | Shipped: 2025-03-15
+User: d.azbergenova18@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address: Шевченко 85 | Payment: при получении | Status: Жіберілді | Ordered:  | Shipped: 2025-03-15
+====================
+
+=== Тапсырыстар (2025-03-15 04:52:12) ===
+User: dilnaz@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address:  | Payment:  | Status:  | Ordered:  | Shipped: -
+User: d.azbergenova18@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address:  | Payment:  | Status:  | Ordered:  | Shipped: -
+User: rinat@gmail.com | Item: Каша молочная Modest | Price: 800 | Address: Байтурсынова 127 | Payment: при получении | Status:  | Ordered:  | Shipped: -
+User: rinat@gmail.com | Item: Йогурт детский Modest | Price: 400 | Address: Байтурсынова 127 | Payment: при получении | Status:  | Ordered:  | Shipped: -
+User: rinat@gmail.com | Item: Сок фруктовый Modest | Price: 600 | Address: 3 мкрн | Payment: онлайн | Status: Жіберілді | Ordered:  | Shipped: -
+User: rinat@gmail.com | Item: Пюре овощное Modest | Price: 500 | Address: 3 мкрн | Payment: онлайн | Status: Жіберілді | Ordered:  | Shipped: -
+User: rinat@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address: тимирязева 41 | Payment: онлайн | Status: Жіберілді | Ordered:  | Shipped: -
+User: dighlnaz@gmail.com | Item: Каша молочная Modest | Price: 800 | Address: Жандосова 54 | Payment: при получении | Status: Жіберілді | Ordered:  | Shipped: -
+User: d.azbergenova18@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address: Шевченко 85 | Payment: при получении | Status: Жіберілді | Ordered:  | Shipped: 2025-03-15
+User: d.azbergenova18@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address: Шевченко 85 | Payment: при получении | Status: Жіберілді | Ordered:  | Shipped: 2025-03-15
+====================
+
+=== Тапсырыстар (2025-03-15 04:54:38) ===
+User: dilnaz@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address:  | Payment:  | Status:  | Ordered:  | Shipped: -
+User: d.azbergenova18@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address:  | Payment:  | Status:  | Ordered:  | Shipped: -
+User: rinat@gmail.com | Item: Каша молочная Modest | Price: 800 | Address: Байтурсынова 127 | Payment: при получении | Status:  | Ordered:  | Shipped: -
+User: rinat@gmail.com | Item: Йогурт детский Modest | Price: 400 | Address: Байтурсынова 127 | Payment: при получении | Status:  | Ordered:  | Shipped: -
+User: rinat@gmail.com | Item: Сок фруктовый Modest | Price: 600 | Address: 3 мкрн | Payment: онлайн | Status: Жіберілді | Ordered:  | Shipped: -
+User: rinat@gmail.com | Item: Пюре овощное Modest | Price: 500 | Address: 3 мкрн | Payment: онлайн | Status: Жіберілді | Ordered:  | Shipped: -
+User: rinat@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address: тимирязева 41 | Payment: онлайн | Status: Жіберілді | Ordered:  | Shipped: -
+User: dighlnaz@gmail.com | Item: Каша молочная Modest | Price: 800 | Address: Жандосова 54 | Payment: при получении | Status: Жіберілді | Ordered:  | Shipped: -
+User: d.azbergenova18@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address: Шевченко 85 | Payment: при получении | Status: Жіберілді | Ordered:  | Shipped: 2025-03-15
+User: d.azbergenova18@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address: Шевченко 85 | Payment: при получении | Status: Жіберілді | Ordered:  | Shipped: 2025-03-15
+====================
+
+=== Тапсырыстар (2025-03-15 04:57:33) ===
+User: dilnaz@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address:  | Payment:  | Status:  | Ordered:  | Shipped: -
+User: d.azbergenova18@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address:  | Payment:  | Status:  | Ordered:  | Shipped: -
+User: rinat@gmail.com | Item: Каша молочная Modest | Price: 800 | Address: Байтурсынова 127 | Payment: при получении | Status:  | Ordered:  | Shipped: -
+User: rinat@gmail.com | Item: Йогурт детский Modest | Price: 400 | Address: Байтурсынова 127 | Payment: при получении | Status:  | Ordered:  | Shipped: -
+User: rinat@gmail.com | Item: Сок фруктовый Modest | Price: 600 | Address: 3 мкрн | Payment: онлайн | Status: Жіберілді | Ordered:  | Shipped: -
+User: rinat@gmail.com | Item: Пюре овощное Modest | Price: 500 | Address: 3 мкрн | Payment: онлайн | Status: Жіберілді | Ordered:  | Shipped: -
+User: rinat@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address: тимирязева 41 | Payment: онлайн | Status: Жіберілді | Ordered:  | Shipped: -
+User: dighlnaz@gmail.com | Item: Каша молочная Modest | Price: 800 | Address: Жандосова 54 | Payment: при получении | Status: Жіберілді | Ordered:  | Shipped: -
+User: d.azbergenova18@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address: Шевченко 85 | Payment: при получении | Status: Жіберілді | Ordered:  | Shipped: 2025-03-15
+User: d.azbergenova18@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address: Шевченко 85 | Payment: при получении | Status: Жіберілді | Ordered:  | Shipped: 2025-03-15
+User: bake@gmail.com | Item: Сок фруктовый Modest | Price: 600 | Address: Мирас 120 | Payment: онлайн | Status: Жіберілді | Ordered: 2025-03-15 | Shipped: 2025-03-15
+User: bake@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address: Мирас 120 | Payment: онлайн | Status: Жіберілді | Ordered: 2025-03-15 | Shipped: 2025-03-15
+User: bake@gmail.com | Item: Пюре овощное Modest | Price: 500 | Address: Мирас 120 | Payment: онлайн | Status: Жіберілді | Ordered: 2025-03-15 | Shipped: 2025-03-15
+====================
+
+=== Тапсырыстар (2025-03-15 07:17:08) ===
+User: dilnaz@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address:  | Payment:  | Status:  | Ordered:  | Shipped: -
+User: d.azbergenova18@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address:  | Payment:  | Status:  | Ordered:  | Shipped: -
+User: rinat@gmail.com | Item: Каша молочная Modest | Price: 800 | Address: Байтурсынова 127 | Payment: при получении | Status:  | Ordered:  | Shipped: -
+User: rinat@gmail.com | Item: Йогурт детский Modest | Price: 400 | Address: Байтурсынова 127 | Payment: при получении | Status:  | Ordered:  | Shipped: -
+User: rinat@gmail.com | Item: Сок фруктовый Modest | Price: 600 | Address: 3 мкрн | Payment: онлайн | Status: Жіберілді | Ordered:  | Shipped: -
+User: rinat@gmail.com | Item: Пюре овощное Modest | Price: 500 | Address: 3 мкрн | Payment: онлайн | Status: Жіберілді | Ordered:  | Shipped: -
+User: rinat@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address: тимирязева 41 | Payment: онлайн | Status: Жіберілді | Ordered:  | Shipped: -
+User: dighlnaz@gmail.com | Item: Каша молочная Modest | Price: 800 | Address: Жандосова 54 | Payment: при получении | Status: Жіберілді | Ordered:  | Shipped: -
+User: d.azbergenova18@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address: Шевченко 85 | Payment: при получении | Status: Жіберілді | Ordered:  | Shipped: 2025-03-15
+User: d.azbergenova18@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address: Шевченко 85 | Payment: при получении | Status: Жіберілді | Ordered:  | Shipped: 2025-03-15
+User: bake@gmail.com | Item: Сок фруктовый Modest | Price: 600 | Address: Мирас 120 | Payment: онлайн | Status: Жіберілді | Ordered: 2025-03-15 | Shipped: 2025-03-15
+User: bake@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address: Мирас 120 | Payment: онлайн | Status: Жіберілді | Ordered: 2025-03-15 | Shipped: 2025-03-15
+User: bake@gmail.com | Item: Пюре овощное Modest | Price: 500 | Address: Мирас 120 | Payment: онлайн | Status: Жіберілді | Ordered: 2025-03-15 | Shipped: 2025-03-15
+User: bake@gmail.com | Item: Молоко сухое Modest | Price: 1500 | Address: Аскарова 76 | Payment: при получении | Status: Жіберілді | Ordered: 2025-03-15 | Shipped: 2025-03-15
+User: bake@gmail.com | Item: Каша молочная Modest | Price: 800 | Address: Аскарова 76 | Payment: при получении | Status: Жіберілді | Ordered: 2025-03-15 | Shipped: 2025-03-15
+====================
+

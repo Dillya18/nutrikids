@@ -1,4 +1,6 @@
 <?php
+session_start();
+
 // MySQL-ге қосылу
 $servername = "localhost";
 $username = "root";
@@ -20,7 +22,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     $sql = "INSERT INTO registration (name, email, phone, password) VALUES ('$name', '$email', '$phone', '$password')";
     if ($conn->query($sql) === TRUE) {
-        echo "<script>alert('Регистрация сәтті аяқталды!');</script>";
+        $_SESSION['loggedin'] = true; // Пайдаланушы кіргенін белгілеу
+        $_SESSION['user_email'] = $email; // Email-ді сессияда сақтау
+        echo "<script>alert('Регистрация сәтті аяқталды!'); window.location.href='index.php';</script>";
     } else {
         echo "<script>alert('Қате: " . $conn->error . "');</script>";
     }
@@ -51,8 +55,13 @@ $conn->close();
             <div class="head-13">
                 <p><a href="index.php#continer-7">Где купить</a></p>
                 <p><a href="index.php#continer-5">Отзыв родителей</a></p>
-                <p><a href="registration.php">Регистрация</a></p>
-                <p><a href="login.php">Войти</a></p>
+                <?php if (isset($_SESSION['loggedin']) && $_SESSION['loggedin'] === true): ?>
+                    <p><a href="#">Корзина</a></p>
+                    <p><a href="#">Избранное</a></p>
+                <?php else: ?>
+                    <p><a href="registration.php">Регистрация</a></p>
+                    <p><a href="login.php">Войти</a></p>
+                <?php endif; ?>
             </div>
         </div>
     </header>

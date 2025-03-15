@@ -1,64 +1,47 @@
 <?php
-// Формадан келген деректерді өңдеу
-if ($_SERVER["REQUEST_METHOD"] == "POST") {
-    $name = htmlspecialchars($_POST['name']);
-    $email = htmlspecialchars($_POST['email']);
-    $phone = htmlspecialchars($_POST['phone']); // Жаңа өріс қосылды
-    $message = htmlspecialchars($_POST['message']);
+session_start();
 
-    // MySQL-ге қосылу
-    $servername = "localhost";
-    $username = "root";
-    $password = "";
-    $dbname = "nutrikids_db";
-
-    $conn = new mysqli($servername, $username, $password, $dbname);
-
-    if ($conn->connect_error) {
-        die("Қосылым қатесі: " . $conn->connect_error);
-    }
-
-    // Деректерді кестеге енгізу (phone қосылды)
-    $sql = "INSERT INTO anketa (name, email, phone, message) VALUES ('$name', '$email', '$phone', '$message')";
-
-    if ($conn->query($sql) === TRUE) {
-        echo "<script>alert('Деректер сәтті сақталды!');</script>";
-    } else {
-        echo "<script>alert('Қате: " . $conn->error . "');</script>";
-    }
-
-    $conn->close();
+// "Выйти" логикасы
+if (isset($_GET['logout'])) {
+    unset($_SESSION['loggedin']); // Тек логин белгісін жою
+    unset($_SESSION['user_email']); // Email-ді жою (қажет болса)
+    header("Location: index.php");
+    exit();
 }
 ?>
-
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>NutriKids- продукты для детей</title>
+    <title>NutriKids</title>
     <link rel="stylesheet" href="./css/style.css">
 </head>
-
 <body>
-<header>
-    <div class="head">
-        <div class="head-1">
-            <p><a href="catalog.php">Каталог продукции</a></p>
-            <p><a href="#continer-2">О нас</a></p>
-            <p><a href="#continer-6">Блог о питании</a></p>
+    <header>
+        <div class="head">
+            <div class="head-1">
+                <p><a href="catalog.php">Каталог продукции</a></p>
+                <p><a href="#continer-2">О нас</a></p>
+                <p><a href="#continer-6">Блог о питании</a></p>
+            </div>
+            <div class="head-12">
+                <a href="index.php">NutriKids</a>
+            </div>
+            <div class="head-13">
+                <p><a href="#continer-7">Где купить</a></p>
+                <p><a href="#continer-5">Отзыв родителей</a></p>
+                <?php if (isset($_SESSION['loggedin']) && $_SESSION['loggedin'] === true): ?>
+                    <p><a href="favorites.php">Избранное</a></p>
+                    <p><a href="cart.php">Корзина (<?php echo isset($_SESSION['cart']) ? count($_SESSION['cart']) : 0; ?>)</a></p>
+                    <p><a href="?logout=true">Выйти</a></p>
+                <?php else: ?>
+                    <p><a href="registration.php">Регистрация</a></p>
+                    <p><a href="login.php">Войти</a></p>
+                <?php endif; ?>
+            </div>
         </div>
-        <div class="head-12">
-            <a href="index.php">NutriKids</a>
-        </div>
-        <div class="head-13">
-            <p><a href="https://go.2gis.com/f72Mh">Где купить</a></p> <!-- Жаңа сілтеме қосылды -->
-            <p><a href="#continer-5">Отзыв родителей</a></p>
-            <p><a href="#continer-8">Контакты</a></p>
-        </div>
-    </div>
-</header>
+    </header>
 
     <section class="continer-1">
     <h1 class="con1">Питающие улыбки</h1>

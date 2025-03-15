@@ -1,4 +1,6 @@
 <?php
+session_start();
+
 // MySQL-ге қосылу
 $servername = "localhost";
 $username = "root";
@@ -16,13 +18,29 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $login_email = htmlspecialchars($_POST['login_email']);
     $login_password = $_POST['login_password'];
 
+    // Админ аккаунтын тексеру
+    $admin_email = "dilnaz@gmail.com";
+    $admin_password = "2004";
+
+    if ($login_email === $admin_email && $login_password === $admin_password) {
+        $_SESSION['loggedin'] = true;
+        $_SESSION['admin_loggedin'] = true; // Админ екенін белгілеу
+        $_SESSION['user_email'] = $login_email;
+        header("Location: admin/adminpanel.php"); // Админ панеліне бағыттау
+        exit();
+    }
+
+    // Қарапайым пайдаланушыны тексеру
     $sql = "SELECT * FROM registration WHERE email = '$login_email'";
     $result = $conn->query($sql);
 
     if ($result->num_rows > 0) {
         $row = $result->fetch_assoc();
         if (password_verify($login_password, $row['password'])) {
-            echo "<script>alert('Сәтті кірдіңіз!');</script>";
+            $_SESSION['loggedin'] = true;
+            $_SESSION['user_email'] = $login_email;
+            header("Location: index.php"); // Қарапайым пайдаланушыны басты бетке бағыттау
+            exit();
         } else {
             echo "<script>alert('Қате пароль');</script>";
         }
@@ -56,8 +74,14 @@ $conn->close();
             <div class="head-13">
                 <p><a href="index.php#continer-7">Где купить</a></p>
                 <p><a href="index.php#continer-5">Отзыв родителей</a></p>
-                <p><a href="registration.php">Регистрация</a></p>
-                <p><a href="login.php">Войти</a></p>
+                <?php if (isset($_SESSION['loggedin']) && $_SESSION['loggedin'] === true): ?>
+                    <p><a href="favorites.php">Избранное</a></p>
+                    <p><a href="cart.php">Корзина (<?php echo isset($_SESSION['cart']) ? count($_SESSION['cart']) : 0; ?>)</a></p>
+                    <p><a href="?logout=true">Выйти</a></p>
+                <?php else: ?>
+                    <p><a href="registration.php">Регистрация</a></p>
+                    <p><a href="login.php">Войти</a></p>
+                <?php endif; ?>
             </div>
         </div>
     </header>
