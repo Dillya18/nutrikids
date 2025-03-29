@@ -48,30 +48,31 @@ if (isset($_GET['logout'])) {
     <link rel="stylesheet" href="./css/style.css">
 </head>
 <body>
-    <header>
-        <div class="head">
-            <div class="head-1">
-                <p><a href="catalog.php">Каталог продукции</a></p>
-                <p><a href="index.php#continer-2">О нас</a></p>
-                <p><a href="index.php#continer-6">Блог о питании</a></p>
-            </div>
-            <div class="head-12">
-                <a href="index.php">NutriKids</a>
-            </div>
-            <div class="head-13">
-                <p><a href="index.php#continer-7">Где купить</a></p>
-                <p><a href="index.php#continer-5">Отзыв родителей</a></p>
-                <?php if (isset($_SESSION['loggedin']) && $_SESSION['loggedin'] === true): ?>
-                    <p><a href="favorites.php">Избранное</a></p>
-                    <p><a href="cart.php">Корзина (<?php echo isset($_SESSION['cart']) ? count($_SESSION['cart']) : 0; ?>)</a></p>
-                    <p><a href="?logout=true">Выйти</a></p>
-                <?php else: ?>
-                    <p><a href="registration.php">Регистрация</a></p>
-                    <p><a href="login.php">Войти</a></p>
-                <?php endif; ?>
-            </div>
+<header>
+    <div class="head">
+        <div class="head-1">
+            <p><a href="catalog.php">Каталог продукции</a></p>
+            <p><a href="index.php#continer-2">О нас</a></p>
+            <p><a href="index.php#continer-6">Блог о питании</a></p>
         </div>
-    </header>
+        <div class="head-12">
+            <a href="index.php">NutriKids</a>
+        </div>
+        <div class="head-13">
+            <p><a href="index.php#continer-7">Где купить</a></p>
+            <p><a href="index.php#continer-5">Отзыв родителей</a></p>
+            <?php if (isset($_SESSION['loggedin']) && $_SESSION['loggedin'] === true): ?>
+                <p><a href="favorites.php">Избранное</a></p>
+                <p><a href="cart.php">Корзина (<?php echo isset($_SESSION['cart']) ? count($_SESSION['cart']) : 0; ?>)</a></p>
+                <p><a href="profile.php">Личный кабинет</a></p> <!-- Жаңа сілтеме -->
+                <p><a href="?logout=true">Выйти</a></p>
+            <?php else: ?>
+                <p><a href="registration.php">Регистрация</a></p>
+                <p><a href="login.php">Войти</a></p>
+            <?php endif; ?>
+        </div>
+    </div>
+</header>
 
     <section class="cart-section">
         <h1>Ваше избранное</h1>
